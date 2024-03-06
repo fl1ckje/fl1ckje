@@ -11,7 +11,7 @@
 ### Some of the languages and tools
 
 <img align="left" alt="Python"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img align="left" alt="Go"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+<img align="left" alt="Go"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
 <img align="left" alt="Rust"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
 <img align="left" alt="Java"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img align="left" alt="Haskell"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
