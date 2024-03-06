@@ -6,7 +6,7 @@
 
 📚 Learning lots of technologies all the time
 
-⚙️ Focused on backend development
+🔭 Focused on backend development
 
 ### Some of the languages and tools
 <img align="left" alt="Python"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
@@ -47,19 +47,6 @@
 
 <img align="left" alt="Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/maildotru.svg" />fl1ckje@mail.ru
 
+<img align="left" alt="VKontakte" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/vk.svg" />https://vk.com/fl1ckje
+
 <img align="left" alt="Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/telegram.svg" />https://t.me/fl1ckje
-
-<!--
-**fl1ckje/fl1ckje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
