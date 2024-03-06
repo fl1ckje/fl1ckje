@@ -19,7 +19,7 @@
 <br/><br/>
 
 <img align="left" alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align="left" alt="SQLite" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+<img align="left" alt="SQLite" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
 <img align="left" alt="MongoDB"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 
 <br/><br/>
@@ -36,10 +36,10 @@
 <img align="left" alt="GoLand" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/goland/goland-original.svg" />
 <img align="left" alt="IntelliJ IDEA" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 <img align="left" alt="Visual Studio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" />
-<img align="left" alt="Jupyter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-<img align="left" alt="LabVIEW" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" />
-<img align="left" alt="Unity" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-<img align="left" alt="Unreal Engine" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
+<img align="left" alt="Jupyter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+<img align="left" alt="LabVIEW" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original-wordmark.svg" />
+<img align="left" alt="Unity" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
+<img align="left" alt="Unreal Engine" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original-wordmark.svg" />
 
 <br /><br />
 
