@@ -8,7 +8,10 @@
 
 🔭 Focused on backend development
 
-[![My stats](https://github-readme-stats.vercel.app/api?username=fl1ckje)](https://github.com/anuraghazra/github-readme-stats)
+### Stats
+
+[![My stats](https://github-readme-stats.vercel.app/api?username=fl1ckje&theme=transparent&show_icons=true&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fl1ckje&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Some of the languages and tools
 
