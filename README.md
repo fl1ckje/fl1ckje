@@ -8,6 +8,8 @@
 
 🔭 Focused on backend development
 
+[![My stats](https://github-readme-stats.vercel.app/api?username=fl1ckje)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Some of the languages and tools
 
 <img align="left" alt="Python"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
