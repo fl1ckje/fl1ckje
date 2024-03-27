@@ -31,8 +31,6 @@
 <img align="left" alt="GoLand" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/goland/goland-original.svg" />
 <img align="left" alt="Visual Studio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" />
 <img align="left" alt="Jupyter" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-<img align="left" alt="LabVIEW" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original-wordmark.svg" />
-<img align="left" alt="Unity" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
 
 <br/><br/>
 
