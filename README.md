@@ -8,6 +8,8 @@
 
 🔭 Focused on backend development
 
+📄 My resume: [resume.pdf](https://github.com/fl1ckje/fl1ckje/blob/master/resume.pdf)
+
 <img src="https://github-readme-stats.vercel.app/api?username=fl1ckje&theme=transparent&show_icons=true&custom_title=Stats&hide_border=true&cache_seconds=21600" width=450px alt="GitHub stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fl1ckje&layout=compact&theme=transparent&hide_border=true&cache_seconds=21600" width=280px alt="Languages"/>
 
