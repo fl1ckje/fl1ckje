@@ -1,10 +1,10 @@
-## Hi there! I'm Vladislav 💻
+## Hi there! I'm Vladislav! 💻
 
-### About me
+### About me:
 
-🏛️ Graduated from the Irkutsk branch of MSTU CA as a specialist in the technical operation of transport radio equipment
+🏛️ Graduated from the Irkutsk branch of MSTU CA as a specialist in the technical operation of transport radio equipment.
 
-📚 Learning lots of technologies all the time
+📚 Learning lots of technologies all the time.
 
 🔭 Focused on backend and game development.
 
@@ -13,19 +13,23 @@
 <img src="https://github-readme-stats.vercel.app/api?username=fl1ckje&theme=transparent&show_icons=true&custom_title=Stats&hide_border=true&cache_seconds=21600" width=450px alt="GitHub stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fl1ckje&layout=compact&theme=transparent&hide_border=true&cache_seconds=21600" width=280px alt="Languages"/>
 
-### Some of the languages
+### Languages:
 
 <img align="left" alt="CSharp" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Go" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
 
-### Some of the tools
+<br/><br/>
+
+### Databases:
 
 <img align="left" alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align="left" alt="SQLite" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
 <img align="left" alt="MongoDB"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 
 <br/><br/>
+
+### Tools:
 
 <img align="left" alt="Bash" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
@@ -39,7 +43,7 @@
 
 <br/><br/>
 
-### Links
+### Links:
 
 <img align="left" alt="Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/maildotru.svg" />fl1ckje@mail.ru
 
