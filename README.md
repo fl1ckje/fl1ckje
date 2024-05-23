@@ -6,12 +6,18 @@
 
 📚 Learning lots of technologies all the time
 
-🔭 Focused on backend development
+🔭 Focused on backend and game development.
 
 📄 My resume: [resume.pdf](https://github.com/fl1ckje/fl1ckje/blob/master/resume.pdf)
 
 <img src="https://github-readme-stats.vercel.app/api?username=fl1ckje&theme=transparent&show_icons=true&custom_title=Stats&hide_border=true&cache_seconds=21600" width=450px alt="GitHub stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fl1ckje&layout=compact&theme=transparent&hide_border=true&cache_seconds=21600" width=280px alt="Languages"/>
+
+### Some of the languages
+
+<img align="left" alt="CSharp" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Go" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
 
 ### Some of the tools
 
@@ -21,7 +27,6 @@
 
 <br/><br/>
 
-<img align="left" alt="NixOS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" />
 <img align="left" alt="Bash" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 <img align="left" alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
@@ -30,6 +35,7 @@
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Visual Studio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" />
+<img align="left" alt="Unity" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 
 <br/><br/>
 
