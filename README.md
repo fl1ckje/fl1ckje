@@ -6,7 +6,7 @@
 
 📚 Learning lots of technologies all the time.
 
-🔭 Focused on backend and game development.
+🔭 Focused on backend, game development and data processing.
 
 📄 My resume: [resume.pdf](https://github.com/fl1ckje/fl1ckje/blob/master/resume.pdf)
 
