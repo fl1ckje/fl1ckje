@@ -4,6 +4,8 @@
 
 🏛️ Graduated from the Irkutsk branch of MSTU CA as a specialist in the technical operation of transport radio equipment.
 
+⚡ Nowadays I work as engineer in FSUE State ATM Corporation branch "Aeronavigation of Eastern Siberia" EU ATM Regional Center (Irkutsk).
+
 📚 Learning lots of technologies all the time.
 
 🔭 Focused on backend, game development and data processing.
@@ -18,7 +20,6 @@
 <img align="left" alt="CSharp" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Go" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
 <img align="left" alt="Rust" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
-<img align="left" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 <br/><br/>
@@ -28,6 +29,7 @@
 <img align="left" alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align="left" alt="SQLite" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
 <img align="left" alt="Oracle"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+<img align="left" alt="MySQL"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
 <br/><br/>
 
