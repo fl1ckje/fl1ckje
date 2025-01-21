@@ -6,7 +6,7 @@
 
 ⚡ Work as CMSC (the complex of means of speech communication) engineer in FSUE State ATM Corporation branch "Aeronavigation of Eastern Siberia" US ATC Regional Center (Irkutsk).
 
-📚 Learning both software and hardware techs.
+📚 Learn both software and hardware techs.
 
 🔭 Focused on backend, game development and data processing.
 
