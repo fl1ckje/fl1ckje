@@ -4,13 +4,11 @@
 
 🏛️ Graduated from the Irkutsk branch of MSTU CA as a specialist in the technical operation of transport radio equipment.
 
-⚡ Nowadays I work as engineer in FSUE State ATM Corporation branch "Aeronavigation of Eastern Siberia" EU ATM Regional Center (Irkutsk).
+⚡ Work as CMSC (the complex of means of speech communication) engineer in FSUE State ATM Corporation branch "Aeronavigation of Eastern Siberia" US ATC Regional Center (Irkutsk).
 
-📚 Learning lots of technologies all the time.
+📚 Learning both software and hardware techs.
 
 🔭 Focused on backend, game development and data processing.
-
-📄 My resume: [pdf](https://github.com/fl1ckje/fl1ckje/blob/master/Резюме_Карелин_Владислав_инженер.pdf)
 
 <img src="https://github-readme-stats.vercel.app/api?username=fl1ckje&theme=transparent&show_icons=true&custom_title=Stats&hide_border=true&cache_seconds=21600" width=450px alt="GitHub stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fl1ckje&layout=compact&theme=transparent&hide_border=true&cache_seconds=21600" width=280px alt="Languages"/>
