@@ -1,4 +1,4 @@
-## Hi there! I'm Vladislav! 💻
+## Hi there!👋 I'm Vladislav!
 
 ### About me:
 
