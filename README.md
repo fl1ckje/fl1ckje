@@ -8,7 +8,7 @@
 
 📚 Learn both software and hardware techs.
 
-🔭 Focused on backend, game development and data processing.
+🔭 Focused on backend, game development, SDR devices and data processing.
 
 📡 Interested in GNSS and miltech.
 
